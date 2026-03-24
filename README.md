@@ -24,8 +24,7 @@ Resources
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+![http://imgur.com/a/](https://github.com/akar8004/and102-lab4-starter/blob/main/lab4.gif)
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 <!-- Recommended tools:
